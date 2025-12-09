@@ -13,12 +13,11 @@ It enables users to quickly understand key business metrics using **Pivot Tables
 🔹 Interactive slicers for **Category** and **Year** filtering
 
 ## Tools & Techniques Used
-| Area | Details |
-| Software | Microsoft Excel |
-| Data Analysis | Pivot Tables, Pivot Charts |
-| Visuals | Bar chart, Line chart, Pie chart, Map chart |
-| Interactivity | Slicers for dynamic filtering |
-| Data Skills | Cleaning, grouping, formatting |
+Software - Microsoft Excel
+Data Analysis - Pivot Tables, Pivot Charts
+Visuals - Bar chart, Line chart, Pie chart, Map chart
+Interactivity - Slicers for dynamic filtering
+Data Skills - Cleaning, grouping, formatting
 
 ## Dataset Overview
 The dataset contains information related to:
@@ -33,9 +32,9 @@ The dataset contains information related to:
 - Profit
 
 ## Key Insights
-✔ Phones and Chairs generated the highest sales overall  
-✔ Technology products showed strong growth in profit from 2014 to 2017  
-✔ California recorded the highest state-wise sales  
-✔ Tamara Chand and Raymond Buch were major contributors to company profit  
-✔ Sales observed a peak in November and December  
+- Phones and Chairs generated the highest sales overall  
+- Technology products showed strong growth in profit from 2014 to 2017  
+- California recorded the highest state-wise sales  
+- Tamara Chand and Raymond Buch were major contributors to company profit  
+- Sales observed a peak in November and December  
 
