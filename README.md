@@ -13,11 +13,7 @@ It enables users to quickly understand key business metrics using **Pivot Tables
 🔹 Interactive slicers for **Category** and **Year** filtering
 
 ## Tools & Techniques Used
-Software - Microsoft Excel
-Data Analysis - Pivot Tables, Pivot Charts
-Visuals - Bar chart, Line chart, Pie chart, Map chart
-Interactivity - Slicers for dynamic filtering
-Data Skills - Cleaning, grouping, formatting
+Microsoft Excel, Pivot Tables, Pivot Charts, Bar chart, Line chart, Pie chart, Map chart, Slicers for dynamic filtering, Cleaning, grouping, formatting
 
 ## Dataset Overview
 The dataset contains information related to:
