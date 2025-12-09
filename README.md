@@ -34,3 +34,5 @@ The dataset contains information related to:
 - Tamara Chand and Raymond Buch were major contributors to company profit  
 - Sales observed a peak in November and December  
 
+## Dashboard Preview
+<img width="1447" height="645" alt="SalesDashboard" src="https://github.com/user-attachments/assets/e04b360e-dc15-4ef4-90f5-d4e12e865776" />
