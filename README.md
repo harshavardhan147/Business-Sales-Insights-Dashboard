@@ -5,6 +5,7 @@
 ![Visualization](https://img.shields.io/badge/Data-Visualization-orange)
 ![Analytics](https://img.shields.io/badge/Business-Analytics-purple)
 
+
 This project is an **interactive Excel Sales Dashboard** designed to analyze business performance across sales, profit, customers, and regional trends.  
 It enables users to quickly understand key business metrics using **Pivot Tables, Pivot Charts, Slicers, and Data Visualization techniques** in Microsoft Excel.
 
