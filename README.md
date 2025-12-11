@@ -28,13 +28,13 @@ Businesses often struggle to quickly identify:
 This dashboard was created to **solve these challenges** by providing a clear, visual summary of key business metrics.
 
 ## Dashboard Features
-🔹 Sales by Product Category  
-🔹 Profit gained over time (2014 – 2017)  
-🔹 Monthly sales trends  
-🔹 Top 5 customers contributing the highest profit  
-🔹 Customer count by year  
-🔹 Sales by U.S. State (map chart)  
-🔹 Interactive slicers for **Category** and **Year** filtering
+- Sales by Product Category  
+- Profit gained over time (2014 – 2017)  
+- Monthly sales trends  
+- Top 5 customers contributing the highest profit  
+- Customer count by year  
+- Sales by U.S. State (map chart)  
+- Interactive slicers for **Category** and **Year** filtering
 
 ## Tools & Techniques Used
 Microsoft Excel, Pivot Tables, Pivot Charts, Bar chart, Line chart, Pie chart, Map chart, Slicers for dynamic filtering, Cleaning, grouping, formatting
