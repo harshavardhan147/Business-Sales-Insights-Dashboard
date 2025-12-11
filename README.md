@@ -9,6 +9,12 @@
 This project is an **interactive Excel Sales Dashboard** designed to analyze business performance across sales, profit, customers, and regional trends.  
 It enables users to quickly understand key business metrics using **Pivot Tables, Pivot Charts, Slicers, and Data Visualization techniques** in Microsoft Excel.
 
+## Download Dashboard File
+
+Click the button below to download the Excel dashboard:
+
+[![Download Excel](https://img.shields.io/badge/Download_Excel_File-0288D1?style=for-the-badge&logo=microsoft-excel&logoColor=white)](Business-Sales-Insights-Dashboard.xlsx)
+
 ## Business Problem Statement
 
 Businesses often struggle to quickly identify:
@@ -85,7 +91,7 @@ The dataset contains information related to:
 - Tamara Chand and Raymond Buch were major contributors to company profit  
 - Sales observed a peak in November and December  
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 Planned improvements:
 
