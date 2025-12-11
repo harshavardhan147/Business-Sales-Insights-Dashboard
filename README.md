@@ -35,9 +35,12 @@ The dataset contains information related to:
 
 ## 📁 Project Structure
 
-├── Business-Sales-Insights-Dashboard.xlsx # Excel dashboard workbook
-├── README.md # Documentation
-└── dashboard.png # Dashboard preview image
+```
+├── Business-Sales-Insights-Dashboard.xlsx     # Excel dashboard workbook  
+├── README.md                                   # Documentation  
+└── dashboard.png                                # Dashboard preview image  
+```
+
 
 ## Key Insights
 - Phones and Chairs generated the highest sales overall  
