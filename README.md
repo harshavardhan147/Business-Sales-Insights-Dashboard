@@ -33,6 +33,12 @@ The dataset contains information related to:
 - Quantity
 - Profit
 
+## 📁 Project Structure
+
+├── Business-Sales-Insights-Dashboard.xlsx        # Excel dashboard workbook
+├── README.md                                     # Documentation
+└── dashboard.png                                 # Dashboard preview image
+
 ## Key Insights
 - Phones and Chairs generated the highest sales overall  
 - Technology products showed strong growth in profit from 2014 to 2017  
